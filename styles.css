@@ -1,0 +1,76 @@
+/* Custom CSS */
+
+/* Adjust navbar colors */
+.navbar {
+    background-color: #f8f9fa; /* Light grey */
+  }
+  
+  /* Center the navbar brand */
+  .navbar-brand {
+    margin-right: auto;
+    margin-left: auto;
+  }
+  
+  /* Center the search icon */
+  .navbar-nav .nav-link:last-child {
+    margin-right: auto;
+  }
+  
+  /* Style the small navbar */
+  .navbar-sm {
+    background-color: #343a40; /* Dark grey */
+  }
+  
+  .navbar-sm .navbar-text {
+    color: #ffffff; /* White */
+  }
+  
+  .navbar-sm .nav-link {
+    color: #ffffff; /* White */
+  }
+  
+  /* Adjust carousel height */
+  .carousel-item img {
+    height: 400px;
+  }
+  
+  /* Style service cards */
+  .card {
+    margin-bottom: 20px;
+  }
+  
+  /* Footer styling */
+  .footer {
+    background-color: #f8f9fa; /* Light grey */
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  
+  .footer h5 {
+    color: #343a40; /* Dark grey */
+  }
+  
+  .footer p {
+    color: #343a40; /* Dark grey */
+  }
+  
+  .footer ul {
+    padding-left: 0;
+  }
+  
+  .footer ul li {
+    list-style: none;
+  }
+  
+  .footer ul li a {
+    color: #343a40; /* Dark grey */
+  }
+  
+  .footer ul li a:hover {
+    color: #007bff; /* Blue */
+  }
+  .card-img-top {
+    height: 200px; /* Adjust height as needed */
+    object-fit: cover; /* Ensure the image covers the entire space */
+  }
+    
